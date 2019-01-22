@@ -12,7 +12,7 @@ h1 {
 }
 
 .titre {
-  background-image: url("/res/140991_00_2x.jpg");
+  background-image: url("140991_00_2x.jpg");
   padding: 50px;
   background-size: cover;
   background-repeat: no-repeat;
